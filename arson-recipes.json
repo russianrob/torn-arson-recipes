@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": 1783704929368,
+  "updatedAt": 1783707016984,
   "recipes": {
     "a hot lead": {
       "items": {
@@ -1629,6 +1629,14 @@
       "location": "Medical Center",
       "createdAt": 1783701550353,
       "updatedAt": 1783704929312
+    },
+    "zzz-publish-test": {
+      "items": {
+        "gasoline": 1
+      },
+      "payout": 1000,
+      "createdAt": 1783707016984,
+      "updatedAt": 1783707016984
     }
   }
 }
