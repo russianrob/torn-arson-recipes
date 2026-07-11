@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": 1783729036197,
+  "updatedAt": 1783729337136,
   "recipes": {
     "a hot lead": {
       "items": {
@@ -96,7 +96,10 @@
         "blanket": 1
       },
       "payout": 43000,
-      "ignite": "lighter"
+      "location": "Self Storage Container",
+      "ignite": "lighter",
+      "createdAt": 1783729336515,
+      "updatedAt": 1783729336515
     },
     "boxing clever": {
       "items": {
@@ -190,7 +193,10 @@
       "items": {
         "diesel": 1
       },
-      "payout": 46000
+      "payout": 46000,
+      "location": "Penthouse",
+      "createdAt": 1783729336574,
+      "updatedAt": 1783729336574
     },
     "clinical exposure": {
       "items": {
@@ -298,7 +304,10 @@
         "gasoline": 2
       },
       "payout": 81000,
-      "ignite": "lighter"
+      "location": "Suburban Home",
+      "ignite": "lighter",
+      "createdAt": 1783729336584,
+      "updatedAt": 1783729336584
     },
     "final markdown": {
       "items": {
@@ -453,7 +462,10 @@
         "gasoline": 2
       },
       "payout": 225000,
-      "ignite": "lighter"
+      "location": "Lakehouse",
+      "ignite": "lighter",
+      "createdAt": 1783729336523,
+      "updatedAt": 1783729336523
     },
     "it's not all white": {
       "items": {
@@ -637,7 +649,10 @@
       "items": {
         "gasoline": 5
       },
-      "payout": 250000
+      "payout": 250000,
+      "location": "Slaughterhouse",
+      "createdAt": 1783729337135,
+      "updatedAt": 1783729337135
     },
     "remote possibility": {
       "items": {
@@ -715,8 +730,9 @@
         "magnesium shavings": 1
       },
       "payout": 120000,
+      "location": "Waste Facility",
       "createdAt": 1783729036195,
-      "updatedAt": 1783729036195
+      "updatedAt": 1783729336541
     },
     "smoke screen": {
       "items": {
@@ -1122,13 +1138,19 @@
       "items": {
         "gasoline": 4
       },
-      "payout": 31500
+      "payout": 31500,
+      "location": "Beach Hut",
+      "createdAt": 1783729336591,
+      "updatedAt": 1783729336591
     },
     "on fire at the box office": {
       "items": {
         "hydrogen tank": 1
       },
-      "payout": 10000
+      "payout": 10000,
+      "location": "Hunting Lodge",
+      "createdAt": 1783729336542,
+      "updatedAt": 1783729336542
     },
     "one rotten apple": {
       "items": {
@@ -1188,7 +1210,10 @@
       "items": {
         "gasoline": 3
       },
-      "payout": 38000
+      "payout": 38000,
+      "location": "Travel Agent",
+      "createdAt": 1783729336564,
+      "updatedAt": 1783729336564
     },
     "totally armless": {
       "items": {
@@ -1206,7 +1231,10 @@
       "items": {
         "gasoline": 4
       },
-      "payout": 81000
+      "payout": 81000,
+      "location": "Strip Club",
+      "createdAt": 1783729336540,
+      "updatedAt": 1783729336540
     },
     "workplace burnout": {
       "items": {
@@ -1225,9 +1253,12 @@
         "hydrogen tank": 1
       },
       "payout": 235000,
+      "location": "Warehouse",
       "stoke": {
         "hydrogen tank": 1
-      }
+      },
+      "createdAt": 1783729337136,
+      "updatedAt": 1783729337136
     },
     "a dirty job": {
       "items": {
@@ -1356,7 +1387,10 @@
       "items": {
         "gasoline": 2
       },
-      "payout": 34000
+      "payout": 34000,
+      "location": "Chemical Plant",
+      "createdAt": 1783729336592,
+      "updatedAt": 1783729336592
     },
     "get wrecked": {
       "items": {
@@ -1380,7 +1414,10 @@
       "items": {
         "gasoline": 2
       },
-      "payout": 40000
+      "payout": 40000,
+      "location": "Lakehouse",
+      "createdAt": 1783729336585,
+      "updatedAt": 1783729336585
     },
     "hide and seek": {
       "items": {
@@ -1594,9 +1631,12 @@
         "gasoline": 3
       },
       "payout": 140000,
+      "location": "Ranch",
       "stoke": {
         "flamethrower": 1
-      }
+      },
+      "createdAt": 1783729336565,
+      "updatedAt": 1783729336565
     },
     "the midnight oil": {
       "items": {
