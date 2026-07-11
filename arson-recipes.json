@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": 1783707037833,
+  "updatedAt": 1783729036197,
   "recipes": {
     "a hot lead": {
       "items": {
@@ -75,9 +75,12 @@
     },
     "beggars can't be choosers": {
       "items": {
-        "gasoline, 2 thermite": 5
+        "gasoline": 5,
+        "thermite": 2
       },
-      "payout": 480000
+      "payout": 480000,
+      "createdAt": 1783729036189,
+      "updatedAt": 1783729036189
     },
     "beyond repair": {
       "items": {
@@ -120,10 +123,15 @@
     },
     "burned cookies": {
       "items": {
-        "diesel, 2 magnesium shavings": 2,
+        "diesel": 2,
+        "magnesium shavings": 2
+      },
+      "payout": 81000,
+      "stoke": {
         "diesel": 1
       },
-      "payout": 81000
+      "createdAt": 1783729036192,
+      "updatedAt": 1783729036192
     },
     "burning liability": {
       "items": {
@@ -236,10 +244,13 @@
     "daddy's girl": {
       "items": {
         "kerosene": 1,
-        "methane tank, 1 hydrogen tank": 1
+        "methane tank": 1,
+        "hydrogen tank": 1
       },
       "payout": 330000,
-      "ignite": "lighter"
+      "ignite": "lighter",
+      "createdAt": 1783729036197,
+      "updatedAt": 1783729036197
     },
     "damned if you don't": {
       "items": {
@@ -525,10 +536,13 @@
     },
     "mental block": {
       "items": {
-        "gasoline, 1 thermite": 5,
+        "gasoline": 5,
+        "thermite": 1,
         "flamethrower": 1
       },
-      "payout": 580000
+      "payout": 580000,
+      "createdAt": 1783729036181,
+      "updatedAt": 1783729036181
     },
     "milk milk, lemonade": {
       "items": {
@@ -596,10 +610,15 @@
     },
     "point of no return": {
       "items": {
-        "gasoline, 1 thermite": 1,
+        "gasoline": 1,
+        "thermite": 1
+      },
+      "payout": 90000,
+      "stoke": {
         "magnesium shavings": 2
       },
-      "payout": 90000
+      "createdAt": 1783729036193,
+      "updatedAt": 1783729036193
     },
     "pyro for pornos": {
       "items": {
@@ -692,9 +711,12 @@
     },
     "smoke signals": {
       "items": {
-        "diesel, 1 magnesium shavings": 2
+        "diesel": 2,
+        "magnesium shavings": 1
       },
-      "payout": 120000
+      "payout": 120000,
+      "createdAt": 1783729036195,
+      "updatedAt": 1783729036195
     },
     "smoke screen": {
       "items": {
