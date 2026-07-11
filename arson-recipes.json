@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": 1783781288462,
+  "updatedAt": 1783797844342,
   "recipes": {
     "a hot lead": {
       "items": {
@@ -49,9 +49,9 @@
         "gasoline": 1
       },
       "payout": 13000,
-      "location": "Lifeguard Hut · Baewatch",
+      "location": "Lifeguard Hut",
       "createdAt": 1783701550296,
-      "updatedAt": 1783781288352
+      "updatedAt": 1783797844338
     },
     "bagged and tagged": {
       "items": {
@@ -96,10 +96,10 @@
         "blanket": 1
       },
       "payout": 43000,
-      "location": "Self Storage Container · Bone of Contention",
+      "location": "Self Storage Container",
       "ignite": "lighter",
       "createdAt": 1783729336515,
-      "updatedAt": 1783781288390
+      "updatedAt": 1783797844333
     },
     "boxing clever": {
       "items": {
@@ -304,10 +304,10 @@
         "gasoline": 2
       },
       "payout": 81000,
-      "location": "Suburban Home · Fight Fire With Fire",
+      "location": "Suburban Home",
       "ignite": "lighter",
       "createdAt": 1783729336584,
-      "updatedAt": 1783781288387
+      "updatedAt": 1783797844331
     },
     "final markdown": {
       "items": {
@@ -484,9 +484,9 @@
         "gasoline": 2
       },
       "payout": 52000,
-      "location": "Subway · Last Lyft Home",
+      "location": "Subway",
       "createdAt": 1783704887115,
-      "updatedAt": 1783781288395
+      "updatedAt": 1783797844336
     },
     "like for like": {
       "items": {
@@ -730,9 +730,9 @@
         "magnesium shavings": 1
       },
       "payout": 120000,
-      "location": "Waste Facility · Smoke Signals",
+      "location": "Waste Facility",
       "createdAt": 1783729036195,
-      "updatedAt": 1783781288462
+      "updatedAt": 1783797844342
     },
     "smoke screen": {
       "items": {
@@ -1139,18 +1139,18 @@
         "gasoline": 4
       },
       "payout": 31500,
-      "location": "Beach Hut · Naked Aggression",
+      "location": "Beach Hut",
       "createdAt": 1783729336591,
-      "updatedAt": 1783781288361
+      "updatedAt": 1783797844334
     },
     "on fire at the box office": {
       "items": {
         "hydrogen tank": 1
       },
       "payout": 10000,
-      "location": "Hunting Lodge · On Fire at the Box Office",
+      "location": "Hunting Lodge",
       "createdAt": 1783729336542,
-      "updatedAt": 1783781288439
+      "updatedAt": 1783797844333
     },
     "one rotten apple": {
       "items": {
@@ -1211,9 +1211,9 @@
         "gasoline": 3
       },
       "payout": 38000,
-      "location": "Travel Agent · The Plane Truth",
+      "location": "Travel Agent",
       "createdAt": 1783729336564,
-      "updatedAt": 1783781288362
+      "updatedAt": 1783797844342
     },
     "totally armless": {
       "items": {
@@ -1232,9 +1232,9 @@
         "gasoline": 4
       },
       "payout": 81000,
-      "location": "Strip Club · Wedded to the Lie",
+      "location": "Strip Club",
       "createdAt": 1783729336540,
-      "updatedAt": 1783781288456
+      "updatedAt": 1783797844337
     },
     "workplace burnout": {
       "items": {
@@ -1388,9 +1388,9 @@
         "gasoline": 2
       },
       "payout": 34000,
-      "location": "Chemical Plant · Gay Frogs",
+      "location": "Chemical Plant",
       "createdAt": 1783729336592,
-      "updatedAt": 1783781288386
+      "updatedAt": 1783797844335
     },
     "get wrecked": {
       "items": {
@@ -1415,9 +1415,9 @@
         "gasoline": 2
       },
       "payout": 40000,
-      "location": "Lakehouse · Heat the Rich",
+      "location": "Lakehouse",
       "createdAt": 1783729336585,
-      "updatedAt": 1783781288346
+      "updatedAt": 1783797844332
     },
     "hide and seek": {
       "items": {
@@ -1463,9 +1463,9 @@
         "gasoline": 2
       },
       "payout": 50000,
-      "location": "Detective Agency · Hot Pursuit",
+      "location": "Detective Agency",
       "createdAt": 1783701550344,
-      "updatedAt": 1783781288351
+      "updatedAt": 1783797844330
     },
     "igniting curiosity": {
       "items": {
@@ -1631,12 +1631,12 @@
         "gasoline": 3
       },
       "payout": 140000,
-      "location": "Ranch · The Fire Chief",
+      "location": "Ranch",
       "stoke": {
         "flamethrower": 1
       },
       "createdAt": 1783729336565,
-      "updatedAt": 1783781288455
+      "updatedAt": 1783797844339
     },
     "the midnight oil": {
       "items": {
@@ -1649,9 +1649,9 @@
         "gasoline": 1
       },
       "payout": 29000,
-      "location": "Community Center · Third-Degree Burn",
+      "location": "Community Center",
       "createdAt": 1783701550278,
-      "updatedAt": 1783781288456
+      "updatedAt": 1783797844341
     },
     "turn up the heat": {
       "items": {
