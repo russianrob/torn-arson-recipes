@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": 1783860175558,
+  "updatedAt": 1783887067291,
   "recipes": {
     "a hot lead": {
       "items": {
@@ -61,7 +61,9 @@
         "gasoline": 1
       },
       "payout": 1600,
-      "location": "Hunting Lodge"
+      "location": "Hunting Lodge · Bagged and Tagged",
+      "createdAt": 1783887067289,
+      "updatedAt": 1783887067290
     },
     "banking on it": {
       "items": {
@@ -1559,9 +1561,9 @@
         "gasoline": 1
       },
       "payout": 30000,
-      "location": "Cottage",
+      "location": "Cottage · Local Concerns",
       "createdAt": 1783860170541,
-      "updatedAt": 1783860170541
+      "updatedAt": 1783887067291
     },
     "marked for salvation": {
       "items": {
