@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": 1783797844342,
+  "updatedAt": 1783860175558,
   "recipes": {
     "a hot lead": {
       "items": {
@@ -23,7 +23,10 @@
         "kabuki mask": 1,
         "gasoline": 1
       },
-      "payout": 71000
+      "payout": 71000,
+      "location": "Candle Shop",
+      "createdAt": 1783860170555,
+      "updatedAt": 1783860170555
     },
     "always read the label": {
       "items": {
@@ -187,7 +190,10 @@
       "items": {
         "gasoline": 2
       },
-      "payout": 33500
+      "payout": 33500,
+      "location": "Adult Store",
+      "createdAt": 1783860170547,
+      "updatedAt": 1783860170547
     },
     "cleansed through fire": {
       "items": {
@@ -211,7 +217,10 @@
         "hydrogen tank": 3
       },
       "payout": 150000,
-      "ignite": "lighter"
+      "location": "Cafe",
+      "ignite": "lighter",
+      "createdAt": 1783860175523,
+      "updatedAt": 1783860175523
     },
     "cook it rare": {
       "items": {
@@ -297,7 +306,10 @@
         "hydrogen tank": 1
       },
       "payout": 33000,
-      "ignite": "lighter"
+      "location": "Cottage",
+      "ignite": "lighter",
+      "createdAt": 1783860170630,
+      "updatedAt": 1783860170630
     },
     "fight fire with fire": {
       "items": {
@@ -408,7 +420,10 @@
       "items": {
         "gasoline": 1
       },
-      "payout": 18000
+      "payout": 18000,
+      "location": "Mobile Home",
+      "createdAt": 1783860170607,
+      "updatedAt": 1783860170607
     },
     "hot on the trail": {
       "items": {
@@ -597,7 +612,10 @@
         "hydrogen tank": 1
       },
       "payout": 16000,
-      "ignite": "lighter"
+      "location": "Hunting Lodge",
+      "ignite": "lighter",
+      "createdAt": 1783860170532,
+      "updatedAt": 1783860170532
     },
     "piggy in the middle": {
       "items": {
@@ -618,7 +636,10 @@
         "gasoline": 2
       },
       "payout": 210000,
-      "ignite": "lighter"
+      "location": "Laboratory",
+      "ignite": "lighter",
+      "createdAt": 1783860175558,
+      "updatedAt": 1783860175558
     },
     "point of no return": {
       "items": {
@@ -995,7 +1016,10 @@
       "items": {
         "gasoline": 2
       },
-      "payout": 50000
+      "payout": 50000,
+      "location": "Motorcycle Club",
+      "createdAt": 1783860170560,
+      "updatedAt": 1783860170560
     },
     "burning calories": {
       "items": {
@@ -1030,7 +1054,10 @@
       "items": {
         "gasoline": 4
       },
-      "payout": 90000
+      "payout": 90000,
+      "location": "Office Block",
+      "createdAt": 1783860170640,
+      "updatedAt": 1783860170640
     },
     "child's play": {
       "items": {
@@ -1069,7 +1096,10 @@
       "items": {
         "gasoline": 4
       },
-      "payout": 64500
+      "payout": 64500,
+      "location": "Luxury Villa",
+      "createdAt": 1783860170614,
+      "updatedAt": 1783860170614
     },
     "final cut": {
       "items": {
@@ -1168,7 +1198,10 @@
       "items": {
         "gasoline": 5
       },
-      "payout": 125000
+      "payout": 125000,
+      "location": "Library",
+      "createdAt": 1783860175522,
+      "updatedAt": 1783860175522
     },
     "shielded from the truth": {
       "items": {
@@ -1219,7 +1252,10 @@
       "items": {
         "kerosene": 2
       },
-      "payout": 44000
+      "payout": 44000,
+      "location": "Arms Warehouse",
+      "createdAt": 1783860170568,
+      "updatedAt": 1783860170568
     },
     "unpopular mechanics": {
       "items": {
@@ -1240,7 +1276,10 @@
       "items": {
         "gasoline": 4
       },
-      "payout": 100000
+      "payout": 100000,
+      "location": "Office Block",
+      "createdAt": 1783860170561,
+      "updatedAt": 1783860170561
     },
     "a black mark": {
       "items": {
@@ -1285,7 +1324,10 @@
       "items": {
         "gasoline": 1
       },
-      "payout": 31000
+      "payout": 31000,
+      "location": "Bazaar",
+      "createdAt": 1783860170598,
+      "updatedAt": 1783860170598
     },
     "bald faced destruction": {
       "items": {
@@ -1318,7 +1360,10 @@
       "items": {
         "gasoline": 3
       },
-      "payout": 96000
+      "payout": 96000,
+      "location": "Casino",
+      "createdAt": 1783860175550,
+      "updatedAt": 1783860175550
     },
     "burning ambition": {
       "items": {
@@ -1375,7 +1420,10 @@
       "items": {
         "gasoline": 1
       },
-      "payout": 20000
+      "payout": 20000,
+      "location": "Mobile Home",
+      "createdAt": 1783860170517,
+      "updatedAt": 1783860170517
     },
     "from the ashes": {
       "items": {
@@ -1402,7 +1450,10 @@
       "items": {
         "gasoline": 4
       },
-      "payout": 120000
+      "payout": 120000,
+      "location": "Recycling Facility",
+      "createdAt": 1783860170612,
+      "updatedAt": 1783860170612
     },
     "gym'll fix it": {
       "items": {
@@ -1507,7 +1558,10 @@
       "items": {
         "gasoline": 1
       },
-      "payout": 30000
+      "payout": 30000,
+      "location": "Cottage",
+      "createdAt": 1783860170541,
+      "updatedAt": 1783860170541
     },
     "marked for salvation": {
       "items": {
@@ -1532,9 +1586,12 @@
         "hydrogen tank": 1
       },
       "payout": 155000,
+      "location": "Ranch",
       "stoke": {
         "hydrogen tank": 1
-      }
+      },
+      "createdAt": 1783860175521,
+      "updatedAt": 1783860175521
     },
     "old school": {
       "items": {
