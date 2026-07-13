@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": 1783887067291,
+  "updatedAt": 1783905925853,
   "recipes": {
     "a hot lead": {
       "items": {
@@ -249,7 +249,10 @@
         "gasoline": 1
       },
       "payout": 57000,
-      "ignite": "lighter"
+      "location": "Theater",
+      "ignite": "lighter",
+      "createdAt": 1783905925823,
+      "updatedAt": 1783905925823
     },
     "cut corners": {
       "items": {
@@ -273,7 +276,10 @@
       "items": {
         "gasoline": 1
       },
-      "payout": 74000
+      "payout": 74000,
+      "location": "Loanshark Office",
+      "createdAt": 1783905925853,
+      "updatedAt": 1783905925853
     },
     "dead giveaway": {
       "items": {
@@ -287,7 +293,10 @@
         "hydrogen tank": 2
       },
       "payout": 95000,
-      "ignite": "lighter"
+      "location": "Diner",
+      "ignite": "lighter",
+      "createdAt": 1783905925823,
+      "updatedAt": 1783905925823
     },
     "dirty money": {
       "items": {
@@ -957,13 +966,19 @@
         "gasoline": 2
       },
       "payout": 55000,
-      "ignite": "1 molotov cocktail"
+      "location": "Bazaar",
+      "ignite": "1 molotov cocktail",
+      "createdAt": 1783905925820,
+      "updatedAt": 1783905925820
     },
     "all mouth and trousers": {
       "items": {
         "gasoline": 2
       },
-      "payout": 51000
+      "payout": 51000,
+      "location": "Clothing Store",
+      "createdAt": 1783905925852,
+      "updatedAt": 1783905925852
     },
     "apart of the problem": {
       "items": {
@@ -1239,7 +1254,10 @@
       "items": {
         "gasoline": 4
       },
-      "payout": 130000
+      "payout": 130000,
+      "location": "Lingerie Store",
+      "createdAt": 1783905925853,
+      "updatedAt": 1783905925853
     },
     "the plane truth": {
       "items": {
@@ -1608,7 +1626,10 @@
       "items": {
         "gasoline": 2
       },
-      "payout": 62000
+      "payout": 62000,
+      "location": "Nightclub",
+      "createdAt": 1783905925850,
+      "updatedAt": 1783905925850
     },
     "political firestorm": {
       "items": {
@@ -1644,13 +1665,19 @@
       "items": {
         "gasoline": 1
       },
-      "payout": 21000
+      "payout": 21000,
+      "location": "Shack",
+      "createdAt": 1783905925822,
+      "updatedAt": 1783905925822
     },
     "smoldering resentment": {
       "items": {
         "gasoline": 1
       },
-      "payout": 10000
+      "payout": 10000,
+      "location": "Self Storage Container",
+      "createdAt": 1783905925791,
+      "updatedAt": 1783905925791
     },
     "stroke of fortune": {
       "items": {
