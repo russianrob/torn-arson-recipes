@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": 1783905925853,
+  "updatedAt": 1783989233730,
   "recipes": {
     "a hot lead": {
       "items": {
@@ -600,7 +600,10 @@
       "items": {
         "gasoline": 1
       },
-      "payout": 17500
+      "payout": 17500,
+      "location": "Adult Store",
+      "createdAt": 1783989233716,
+      "updatedAt": 1783989233716
     },
     "open house": {
       "items": {
@@ -675,7 +678,10 @@
         "hydrogen tank": 2
       },
       "payout": 90000,
-      "ignite": "lighter"
+      "location": "Apartment",
+      "ignite": "lighter",
+      "createdAt": 1783989233730,
+      "updatedAt": 1783989233730
     },
     "raze the steaks": {
       "items": {
@@ -931,7 +937,10 @@
         "hydrogen tank": 2
       },
       "payout": 90000,
-      "ignite": "lighter"
+      "location": "Distillery",
+      "ignite": "lighter",
+      "createdAt": 1783989233726,
+      "updatedAt": 1783989233726
     },
     "wired for war": {
       "items": {
@@ -984,7 +993,10 @@
       "items": {
         "gasoline": 6
       },
-      "payout": 265000
+      "payout": 265000,
+      "location": "Factory",
+      "createdAt": 1783989233715,
+      "updatedAt": 1783989233715
     },
     "ashes to ancestors": {
       "items": {
@@ -1025,9 +1037,12 @@
         "gasoline": 4
       },
       "payout": 175000,
+      "location": "Police Safehouse",
       "stoke": {
         "gasoline": 3
-      }
+      },
+      "createdAt": 1783989233699,
+      "updatedAt": 1783989233699
     },
     "burn rubber": {
       "items": {
@@ -1087,9 +1102,12 @@
         "gasoline": 5
       },
       "payout": 150000,
+      "location": "Cleaning Agency",
       "stoke": {
         "diesel": 1
-      }
+      },
+      "createdAt": 1783989233679,
+      "updatedAt": 1783989233679
     },
     "eight lives": {
       "items": {
@@ -1246,9 +1264,12 @@
         "gasoline": 4
       },
       "payout": 85000,
+      "location": "Drugs Lab",
       "stoke": {
         "diesel": 1
-      }
+      },
+      "createdAt": 1783989233701,
+      "updatedAt": 1783989233701
     },
     "the male gaze": {
       "items": {
@@ -1336,9 +1357,12 @@
         "gasoline": 4
       },
       "payout": 180000,
+      "location": "Townhouse",
       "stoke": {
         "flamethrower": 1
-      }
+      },
+      "createdAt": 1783989233728,
+      "updatedAt": 1783989233728
     },
     "anon starter": {
       "items": {
@@ -1548,7 +1572,10 @@
       "items": {
         "gasoline": 1
       },
-      "payout": 20500
+      "payout": 20500,
+      "location": "Barbershop",
+      "createdAt": 1783989233727,
+      "updatedAt": 1783989233727
     },
     "kindling spirits": {
       "items": {
@@ -1653,7 +1680,10 @@
       "items": {
         "gasoline": 3
       },
-      "payout": 71000
+      "payout": 71000,
+      "location": "Medical Center",
+      "createdAt": 1783989233700,
+      "updatedAt": 1783989233700
     },
     "smoke on the water": {
       "items": {
@@ -1702,9 +1732,12 @@
         "diesel": 1
       },
       "payout": 130000,
+      "location": "Art Gallery",
       "stoke": {
         "potassium nitrate": 1
-      }
+      },
+      "createdAt": 1783989233720,
+      "updatedAt": 1783989233720
     },
     "the empyre strikes back": {
       "items": {
