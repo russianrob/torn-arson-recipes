@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": 1783989233730,
+  "updatedAt": 1784076426146,
   "recipes": {
     "a hot lead": {
       "items": {
@@ -16,7 +16,10 @@
         "gasoline": 1
       },
       "payout": 11000,
-      "ignite": "lighter"
+      "location": "Beach Hut",
+      "ignite": "lighter",
+      "createdAt": 1784076425410,
+      "updatedAt": 1784076425410
     },
     "a treat for the tricked": {
       "items": {
@@ -33,7 +36,10 @@
         "gasoline": 5,
         "flamethrower": 1
       },
-      "payout": 170000
+      "payout": 170000,
+      "location": "Pharmacy",
+      "createdAt": 1784076426141,
+      "updatedAt": 1784076426141
     },
     "ash or credit?": {
       "items": {
@@ -127,7 +133,10 @@
         "kerosene": 1
       },
       "payout": 32000,
-      "ignite": "lighter"
+      "location": "Self Storage Container",
+      "ignite": "lighter",
+      "createdAt": 1784076425414,
+      "updatedAt": 1784076425414
     },
     "burned cookies": {
       "items": {
@@ -643,7 +652,10 @@
         "gasoline": 1
       },
       "payout": 120000,
-      "ignite": "lighter"
+      "location": "Flower Shop",
+      "ignite": "lighter",
+      "createdAt": 1784076426129,
+      "updatedAt": 1784076426129
     },
     "playing with fire": {
       "items": {
@@ -718,7 +730,10 @@
       "items": {
         "kerosene": 1
       },
-      "payout": 50000
+      "payout": 50000,
+      "location": "Bazaar",
+      "createdAt": 1784076425400,
+      "updatedAt": 1784076425400
     },
     "rock the boat": {
       "items": {
@@ -784,7 +799,10 @@
         "gasoline": 2
       },
       "payout": 200000,
-      "ignite": "lighter"
+      "location": "Arms Warehouse",
+      "ignite": "lighter",
+      "createdAt": 1784076426130,
+      "updatedAt": 1784076426130
     },
     "sofa king cheap": {
       "items": {
@@ -847,7 +865,10 @@
         "hard drive": 1,
         "gasoline": 3
       },
-      "payout": 110000
+      "payout": 110000,
+      "location": "Waste Facility",
+      "createdAt": 1784076426146,
+      "updatedAt": 1784076426146
     },
     "the ashes of empire": {
       "items": {
@@ -864,7 +885,10 @@
         "gasoline": 2,
         "flamethrower": 1
       },
-      "payout": 22000
+      "payout": 22000,
+      "location": "Shack",
+      "createdAt": 1784076425398,
+      "updatedAt": 1784076425398
     },
     "the fat is in the fire": {
       "items": {
@@ -1488,7 +1512,10 @@
       "items": {
         "gasoline": 2
       },
-      "payout": 84000
+      "payout": 84000,
+      "location": "Distillery",
+      "createdAt": 1784076425399,
+      "updatedAt": 1784076425399
     },
     "green with envy": {
       "items": {
@@ -1794,7 +1821,10 @@
       "items": {
         "gasoline": 3
       },
-      "payout": 110000
+      "payout": 110000,
+      "location": "Church",
+      "createdAt": 1784076425717,
+      "updatedAt": 1784076425717
     },
     "where there's a will": {
       "items": {
