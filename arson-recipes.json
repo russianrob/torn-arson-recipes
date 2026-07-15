@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": 1784076426146,
+  "updatedAt": 1784139341173,
   "recipes": {
     "a hot lead": {
       "items": {
@@ -16,10 +16,10 @@
         "gasoline": 1
       },
       "payout": 11000,
-      "location": "Beach Hut",
+      "location": "Beach Hut · A Rash Decision",
       "ignite": "lighter",
       "createdAt": 1784076425410,
-      "updatedAt": 1784076425410
+      "updatedAt": 1784139341149
     },
     "a treat for the tricked": {
       "items": {
@@ -27,9 +27,9 @@
         "gasoline": 1
       },
       "payout": 71000,
-      "location": "Candle Shop",
+      "location": "Candle Shop · A Treat for the Tricked",
       "createdAt": 1783860170555,
-      "updatedAt": 1783860170555
+      "updatedAt": 1784139341155
     },
     "always read the label": {
       "items": {
@@ -133,10 +133,10 @@
         "kerosene": 1
       },
       "payout": 32000,
-      "location": "Self Storage Container",
+      "location": "Self Storage Container · Burned by Stupidity",
       "ignite": "lighter",
       "createdAt": 1784076425414,
-      "updatedAt": 1784076425414
+      "updatedAt": 1784139341154
     },
     "burned cookies": {
       "items": {
@@ -326,10 +326,10 @@
         "hydrogen tank": 1
       },
       "payout": 33000,
-      "location": "Cottage",
+      "location": "Cottage · Fan the Flames",
       "ignite": "lighter",
       "createdAt": 1783860170630,
-      "updatedAt": 1783860170630
+      "updatedAt": 1784139341153
     },
     "fight fire with fire": {
       "items": {
@@ -709,9 +709,9 @@
         "gasoline": 3
       },
       "payout": 102500,
-      "location": "Subway",
+      "location": "Subway · Remote Possibility",
       "createdAt": 1783701550301,
-      "updatedAt": 1783704929313
+      "updatedAt": 1784139341173
     },
     "rest in peace": {
       "items": {
@@ -731,9 +731,9 @@
         "kerosene": 1
       },
       "payout": 50000,
-      "location": "Bazaar",
+      "location": "Bazaar · Risky Business",
       "createdAt": 1784076425400,
-      "updatedAt": 1784076425400
+      "updatedAt": 1784139341144
     },
     "rock the boat": {
       "items": {
@@ -886,9 +886,9 @@
         "flamethrower": 1
       },
       "payout": 22000,
-      "location": "Shack",
+      "location": "Shack · The Bad Samaritan",
       "createdAt": 1784076425398,
-      "updatedAt": 1784076425398
+      "updatedAt": 1784139341148
     },
     "the fat is in the fire": {
       "items": {
@@ -1073,9 +1073,9 @@
         "gasoline": 2
       },
       "payout": 50000,
-      "location": "Motorcycle Club",
+      "location": "Motorcycle Club · Burn Rubber",
       "createdAt": 1783860170560,
-      "updatedAt": 1783860170560
+      "updatedAt": 1784139341156
     },
     "burning calories": {
       "items": {
@@ -1177,9 +1177,9 @@
         "gasoline": 2
       },
       "payout": 22000,
-      "location": "Bungalow",
+      "location": "Bungalow · For Closure",
       "createdAt": 1783701550296,
-      "updatedAt": 1783701550296
+      "updatedAt": 1784139341151
     },
     "foul play": {
       "items": {
@@ -1333,9 +1333,9 @@
         "gasoline": 4
       },
       "payout": 81000,
-      "location": "Strip Club",
+      "location": "Strip Club · Wedded to the Lie",
       "createdAt": 1783729336540,
-      "updatedAt": 1783797844337
+      "updatedAt": 1784139341143
     },
     "workplace burnout": {
       "items": {
@@ -1513,9 +1513,9 @@
         "gasoline": 2
       },
       "payout": 84000,
-      "location": "Distillery",
+      "location": "Distillery · Get Wrecked",
       "createdAt": 1784076425399,
-      "updatedAt": 1784076425399
+      "updatedAt": 1784139341154
     },
     "green with envy": {
       "items": {
@@ -1585,9 +1585,9 @@
         "gasoline": 2
       },
       "payout": 50000,
-      "location": "Detective Agency",
+      "location": "Detective Agency · Hot Pursuit",
       "createdAt": 1783701550344,
-      "updatedAt": 1783797844330
+      "updatedAt": 1784139341149
     },
     "igniting curiosity": {
       "items": {
@@ -1822,9 +1822,9 @@
         "gasoline": 3
       },
       "payout": 110000,
-      "location": "Church",
+      "location": "Church · Visions of the Savory",
       "createdAt": 1784076425717,
-      "updatedAt": 1784076425717
+      "updatedAt": 1784139341150
     },
     "where there's a will": {
       "items": {
