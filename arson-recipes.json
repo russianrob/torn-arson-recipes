@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": 1784139921186,
+  "updatedAt": 1784160195443,
   "recipes": {
     "a hot lead": {
       "items": {
@@ -99,7 +99,10 @@
         "gasoline": 4,
         "flamethrower": 1
       },
-      "payout": 93500
+      "payout": 93500,
+      "location": "Mechanic Shop",
+      "createdAt": 1784160195405,
+      "updatedAt": 1784160195405
     },
     "bone of contention": {
       "items": {
@@ -1054,7 +1057,10 @@
       "items": {
         "gasoline": 5
       },
-      "payout": 130000
+      "payout": 130000,
+      "location": "Fertilizer Plant",
+      "createdAt": 1784160195443,
+      "updatedAt": 1784160195443
     },
     "burn notice": {
       "items": {
@@ -1203,7 +1209,10 @@
       "items": {
         "gasoline": 3
       },
-      "payout": 62000
+      "payout": 62000,
+      "location": "Newspaper Office",
+      "createdAt": 1784160195415,
+      "updatedAt": 1784160195415
     },
     "house edge": {
       "items": {
@@ -1368,7 +1377,10 @@
       "items": {
         "gasoline": 1
       },
-      "payout": 32000
+      "payout": 32000,
+      "location": "Apartment",
+      "createdAt": 1784160195400,
+      "updatedAt": 1784160195400
     },
     "a fungus among us": {
       "items": {
@@ -1572,7 +1584,10 @@
       "items": {
         "gasoline": 1
       },
-      "payout": 30500
+      "payout": 30500,
+      "location": "Apartment",
+      "createdAt": 1784160195404,
+      "updatedAt": 1784160195404
     },
     "hot out of the gate": {
       "items": {
@@ -1633,9 +1648,9 @@
         "gasoline": 1
       },
       "payout": 30000,
-      "location": "Cottage · Local Concerns",
+      "location": "Cottage",
       "createdAt": 1783860170541,
-      "updatedAt": 1783887067291
+      "updatedAt": 1784160195396
     },
     "marked for salvation": {
       "items": {
@@ -1788,7 +1803,10 @@
       "items": {
         "gasoline": 3
       },
-      "payout": 75000
+      "payout": 75000,
+      "location": "College",
+      "createdAt": 1784160195401,
+      "updatedAt": 1784160195401
     },
     "third-degree burn": {
       "items": {
