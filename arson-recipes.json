@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": 1784160195443,
+  "updatedAt": 1784160227868,
   "recipes": {
     "a hot lead": {
       "items": {
@@ -509,7 +509,10 @@
       "items": {
         "hydrogen tank": 2
       },
-      "payout": 140000
+      "payout": 140000,
+      "location": "Paper Mill",
+      "createdAt": 1784160227868,
+      "updatedAt": 1784160227868
     },
     "landmark decision": {
       "items": {
@@ -1224,7 +1227,10 @@
       "items": {
         "gasoline": 4
       },
-      "payout": 165000
+      "payout": 165000,
+      "location": "Post Office",
+      "createdAt": 1784160227336,
+      "updatedAt": 1784160227336
     },
     "marx & sparks": {
       "items": {
@@ -1426,9 +1432,12 @@
         "gasoline": 2
       },
       "payout": 180000,
+      "location": "Toy Shop",
       "stoke": {
         "flamethrower": 1
-      }
+      },
+      "createdAt": 1784160227337,
+      "updatedAt": 1784160227337
     },
     "burn after screening": {
       "items": {
